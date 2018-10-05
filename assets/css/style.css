@@ -1,0 +1,14 @@
+body {
+  background: url(../images/train.jpg);
+  font-family: 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  background: rgb(54,25,25,0.1)
+}
+
+.col-12{
+  border-color: aqua;
+  border-style: ridge;
+  background-color: aliceblue;
+  margin-top: 20px;
+}
